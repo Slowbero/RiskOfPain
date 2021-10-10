@@ -960,3 +960,133 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.10-02.37.34:248][  0]LogFactory: Error: Can't find file 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/MobileStarterContent.upack' for import
 [2021.10.10-02.37.34:293][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2021.10.10-02.37.34:298][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.10-02.39.42:152][  0]LogSlate: Window 'Message' being destroyed
+[2021.10.10-02.39.42:152][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.10-02.39.42:160][  0]Message dialog closed, result: Ok, title: Message, text: Failed to import 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/MobileStarterContent.upack'. Failed to create asset '/Game/MobileStarterContent'.
+Please see Output Log for details.
+[2021.10.10-02.39.42:160][  0]LogAssetTools: Warning: Failed to import 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/MobileStarterContent.upack'. Failed to create asset '/Game/MobileStarterContent'.
+Please see Output Log for details.
+[2021.10.10-02.39.42:160][  0]LogFeaturePack: Warning: No objects imported installing pack MobileStarterContent.upack
+[2021.10.10-02.39.42:160][  0]LogFeaturePack: Warning: Inserted 0 feature packs
+[2021.10.10-02.39.42:160][  0]Cmd: MAP LOAD FILE="../../../../../anom/unrealCollab/RiskOfPain/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.10-02.39.42:161][  0]LogEditorServer: Warning: Can't find file '../../../../../anom/unrealCollab/RiskOfPain/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.10-02.39.42:161][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.10-02.39.42:161][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.45ms to complete.
+[2021.10.10-02.39.42:161][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2021.10.10-02.39.42:164][  0]LogUnrealEdMisc: Total Editor Startup Time, took 137.198
+[2021.10.10-02.39.42:257][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.10-02.39.42:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-02.39.42:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-02.39.42:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-02.39.42:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-02.39.42:343][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 4364 classes and 993 folders.
+[2021.10.10-02.39.42:348][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.10-02.39.42:352][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-02.39.42:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.10-02.39.42:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/StarterContent.upack)
+[2021.10.10-02.39.42:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.10.10-02.39.42:354][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.10-02.39.42:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.10-02.39.42:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.10-02.39.42:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.10-02.39.42:354][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.10-02.39.42:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.10-02.39.42:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_Puzzle.upack)
+[2021.10.10-02.39.42:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-02.39.42:355][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.10-02.39.42:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.10-02.39.42:355][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:355][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.10-02.39.42:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.10-02.39.42:356][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.10-02.39.42:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.10-02.39.42:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.10-02.39.42:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-02.39.42:357][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.10-02.39.42:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.10-02.39.42:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.10-02.39.42:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-02.39.42:358][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.10-02.39.42:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.10-02.39.42:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_TopDown.upack)
+[2021.10.10-02.39.42:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.10-02.39.42:359][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.10-02.39.42:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.10-02.39.42:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.10-02.39.42:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-02.39.42:359][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.10-02.39.42:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.10-02.39.42:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.10-02.39.42:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.10-02.39.42:360][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.10-02.39.42:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.10-02.39.42:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.10-02.39.42:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-02.39.42:361][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.10-02.39.42:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.10-02.39.42:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.10-02.39.42:361][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.10-02.39.42:361][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/2.81/Epic Games/UE_5.0EA/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.10-02.39.42:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.10-02.39.42:413][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.10-02.39.42:417][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.10-02.39.42:446][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.10.10-02.39.42:503][  0]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.10-02.39.42:504][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.10-02.39.42:506][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.10-02.39.42:844][  0]LogStall: Startup...
+[2021.10.10-02.39.42:845][  0]LogStall: Startup complete.
+[2021.10.10-02.39.42:857][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.10-02.39.42:858][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.10-02.39.42:858][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.10.10-02.39.42:858][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.10-02.39.42:858][  0]LogLoad: (Engine Initialization) Total time: 137.89 seconds
+[2021.10.10-02.39.42:858][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.10-02.39.42:900][  0]LogAssetRegistry: Asset discovery search completed in 133.2728 seconds
+[2021.10.10-02.39.42:901][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.10.10-02.39.42:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.10-02.39.43:016][  2]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.10-02.39.50:735][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:735][863]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.10.10-02.39.50:735][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:735][863]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.10.10-02.39.50:735][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:735][863]LogWindows: Warning: URL: C:\Users\hipjo\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: URL: C:\Users\hipjo\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.10-02.39.50:736][863]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.10.10-02.40.03:261][220]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.10-02.40.24:995][933]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/idkbromyweensmol.idkbromyweensmol
+[2021.10.10-02.40.25:190][933]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 127 classes and 0 folders.
+[2021.10.10-02.40.29:074][239]LogSlate: Window 'idkbromyweensmol' being destroyed
+[2021.10.10-02.40.29:087][239]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-02.40.29:087][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-02.40.34:794][642]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.10-02.40.34:801][642]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.10-02.40.34:811][642]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.10-02.40.37:944][  7]LogContentBrowser: Attempting asset rename: NewBlueprint -> kekw
+[2021.10.10-02.40.38:079][  7]LogContentBrowser: End creating deferred item NewBlueprint
